@@ -1,0 +1,2 @@
+[1012/205640.451:ERROR:filesystem_win.cc(129)] GetFileAttributes C:\Users\ADMIN\AppData\Local\Microsoft\Edge\User Data\Crashpad\attachments\3777b8cf-4a92-4b6b-909a-d8ac2b0cc256: El sistema no puede encontrar la ruta especificada. (0x3)
+[1012/205640.456:ERROR:directory_reader_win.cc(43)] FindFirstFile: El sistema no puede encontrar la ruta especificada. (0x3)
